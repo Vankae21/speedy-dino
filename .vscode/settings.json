@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "game.h": "c",
+        "dino.h": "c",
+        "ui.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
